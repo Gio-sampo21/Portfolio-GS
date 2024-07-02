@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio-giovanni-sampognaro/static/css/main.d7eff8e5.css",
-    "main.js": "/portfolio-giovanni-sampognaro/static/js/main.bf9fe2a2.js",
+    "main.js": "/portfolio-giovanni-sampognaro/static/js/main.511d9d1e.js",
     "static/media/programmer.jpg": "/portfolio-giovanni-sampognaro/static/media/programmer.f15ffe2de3237e6aeb61.jpg",
     "static/media/Final-project.png": "/portfolio-giovanni-sampognaro/static/media/Final-project.194e9b941a96062d8465.png",
     "static/media/G.png": "/portfolio-giovanni-sampognaro/static/media/G.1c7583970e56a54358db.png",
     "static/media/icons8-menu.svg": "/portfolio-giovanni-sampognaro/static/media/icons8-menu.6d680eadc05c899c4647a14666c9025a.svg",
     "index.html": "/portfolio-giovanni-sampognaro/index.html",
     "main.d7eff8e5.css.map": "/portfolio-giovanni-sampognaro/static/css/main.d7eff8e5.css.map",
-    "main.bf9fe2a2.js.map": "/portfolio-giovanni-sampognaro/static/js/main.bf9fe2a2.js.map"
+    "main.511d9d1e.js.map": "/portfolio-giovanni-sampognaro/static/js/main.511d9d1e.js.map"
   },
   "entrypoints": [
     "static/css/main.d7eff8e5.css",
-    "static/js/main.bf9fe2a2.js"
+    "static/js/main.511d9d1e.js"
   ]
 }
