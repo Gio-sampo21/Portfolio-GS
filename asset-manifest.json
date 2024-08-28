@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio-giovanni-sampognaro/static/css/main.ed520dc4.css",
-    "main.js": "/portfolio-giovanni-sampognaro/static/js/main.098cba64.js",
+    "main.css": "/portfolio-giovanni-sampognaro/static/css/main.72b7170c.css",
+    "main.js": "/portfolio-giovanni-sampognaro/static/js/main.1799e7f2.js",
     "static/media/programmer.jpg": "/portfolio-giovanni-sampognaro/static/media/programmer.f15ffe2de3237e6aeb61.jpg",
     "static/media/MeteoItaly.png": "/portfolio-giovanni-sampognaro/static/media/MeteoItaly.47ed46a2b70330a94b5f.png",
     "static/media/Final-project.png": "/portfolio-giovanni-sampognaro/static/media/Final-project.194e9b941a96062d8465.png",
     "static/media/G.png": "/portfolio-giovanni-sampognaro/static/media/G.1c7583970e56a54358db.png",
     "static/media/icons8-menu.svg": "/portfolio-giovanni-sampognaro/static/media/icons8-menu.6d680eadc05c899c4647a14666c9025a.svg",
     "index.html": "/portfolio-giovanni-sampognaro/index.html",
-    "main.ed520dc4.css.map": "/portfolio-giovanni-sampognaro/static/css/main.ed520dc4.css.map",
-    "main.098cba64.js.map": "/portfolio-giovanni-sampognaro/static/js/main.098cba64.js.map"
+    "main.72b7170c.css.map": "/portfolio-giovanni-sampognaro/static/css/main.72b7170c.css.map",
+    "main.1799e7f2.js.map": "/portfolio-giovanni-sampognaro/static/js/main.1799e7f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed520dc4.css",
-    "static/js/main.098cba64.js"
+    "static/css/main.72b7170c.css",
+    "static/js/main.1799e7f2.js"
   ]
 }
