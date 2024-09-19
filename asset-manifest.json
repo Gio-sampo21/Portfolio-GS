@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-giovanni-sampognaro/static/css/main.8ad4de09.css",
+    "main.css": "/portfolio-giovanni-sampognaro/static/css/main.92aa3435.css",
     "main.js": "/portfolio-giovanni-sampognaro/static/js/main.5732e1f9.js",
     "static/media/Cine-Stream.png": "/portfolio-giovanni-sampognaro/static/media/Cine-Stream.457ab43889ecd98cbcdb.png",
     "static/media/programmer.jpg": "/portfolio-giovanni-sampognaro/static/media/programmer.f15ffe2de3237e6aeb61.jpg",
@@ -9,11 +9,11 @@
     "static/media/G.png": "/portfolio-giovanni-sampognaro/static/media/G.1c7583970e56a54358db.png",
     "static/media/icons8-menu.svg": "/portfolio-giovanni-sampognaro/static/media/icons8-menu.6d680eadc05c899c4647a14666c9025a.svg",
     "index.html": "/portfolio-giovanni-sampognaro/index.html",
-    "main.8ad4de09.css.map": "/portfolio-giovanni-sampognaro/static/css/main.8ad4de09.css.map",
+    "main.92aa3435.css.map": "/portfolio-giovanni-sampognaro/static/css/main.92aa3435.css.map",
     "main.5732e1f9.js.map": "/portfolio-giovanni-sampognaro/static/js/main.5732e1f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ad4de09.css",
+    "static/css/main.92aa3435.css",
     "static/js/main.5732e1f9.js"
   ]
 }
